@@ -14,33 +14,47 @@ I’m a Business Analytics student at La Trobe University in Melbourne, with a m
 
 ### 📈 Cancer Prevalence Dashboard (Victorian Cancer Registry)
 
-Designed and developed a Power BI dashboard analysing cancer prevalence trends using real-world healthcare data.
+Developed a public-facing Power BI dashboard for the Victorian Cancer Registry to enable exploration of cancer prevalence across Victoria, supporting clinicians, researchers, policymakers, and the broader community.
 
-Focus: data visualisation, governance, insight communication
+Focus: healthcare analytics, data governance, insight communication
 Tech: Power BI, R, Data Modelling
-Highlights: applied privacy rules, built public-facing dashboard, worked with real registry data
+Highlights: implemented prevalence calculations (including limited-duration measures), applied strict privacy rules (suppression and rounding), and designed an accessible, high-performance dashboard for non-technical users
 👉 Repo · Case Study
 
 ---
 
-### 🚍 Public Transport Data Analytics (SQL + GIS)
+### 🚍 Public Transport Data Analytics (PTV)
 
-Analysed public transport data using SQL and spatial tools to uncover patterns and support decision-making.
+Developed a performance-optimised database solution to analyse public transport accessibility across Melbourne, integrating GTFS operational data with census and geographic datasets.
 
-Focus: data extraction, spatial analysis, insights
-Tech: SQL, QGIS, Data Analysis
-Highlights: structured queries, geospatial insights, real-world dataset
+Focus: data engineering, spatial analytics, scalable query design
+Tech: PostgreSQL/PostGIS, SQL, QGIS, GTFS, ABS datasets
+Highlights:
+
+Integrated large-scale transport and demographic datasets into a unified schema
+Designed staged query pipelines to optimise performance on high-volume data
+Computed suburb-level accessibility metrics (route coverage, population coverage, service intensity)
+Modelled spatial catchments (400m radius) and produced high-resolution heatmaps in QGIS
+
 👉 Repo · Case Study
 
 ---
 
-### 📊 Business Capstone Project (Award-Winning)
+### 🌱 Sustainable Agribusiness Optimisation (NAB Industry Capstone)
 
-Developed a full project management plan for a renewable energy system, including feasibility, risk, and financial analysis.
+Led the development of a data-driven sustainability solution for a farm-to-table agribusiness, in collaboration with National Australia Bank (NAB), combining business analytics with structured project management to design a financially viable green initiative.
 
-Focus: business strategy, analytics-driven decisions
-Highlights: Best Capstone Project award, presented to industry judges, measurable real-world impact
-👉 Repo · Slides · PMP
+Focus: consulting, sustainability analytics, project management
+Tech: Excel, data analysis, PMP frameworks, climate datasets (BoM), research modelling
+Highlights:
+
+Built a complete Project Management Plan (PMP) covering scope, cost, timeline, risks, and stakeholder alignment
+Used real-world environmental and agricultural data to support decision-making and validate the proposed solution
+Designed a solution targeting key sustainability goals such as emissions reduction, water efficiency, or climate resilience
+Structured the proposal to meet NAB green financing criteria, simulating an industry consulting engagement
+Recognised as a top-performing capstone project
+
+👉 Repo · Slides · PMP · Case Study
 
 ---
 
@@ -56,7 +70,7 @@ Highlights: Best Capstone Project award, presented to industry judges, measurabl
 
 ## 📁 Other Selected Work
 
-* Customer Analytics (Excel): conjoint analysis and predictive modelling
+* Customer Analytics (Excel): predictive modelling
 * Social Media Marketing Strategy: campaign design and engagement analysis
 * Responsible AI Analysis: evaluation of ethical and business risks
 
