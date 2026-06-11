@@ -37,8 +37,11 @@ Tech: PostgreSQL/PostGIS, SQL, QGIS, GTFS, ABS datasets
 Highlights:
 
 Integrated large-scale transport and demographic datasets into a unified schema
+
 Designed staged query pipelines to optimise performance on high-volume data
+
 Computed suburb-level accessibility metrics (route coverage, population coverage, service intensity)
+
 Modelled spatial catchments (400m radius) and produced high-resolution heatmaps in QGIS
 
 
@@ -57,9 +60,13 @@ Tech: Excel, data analysis, PMP frameworks, climate datasets (BoM), research mod
 Highlights:
 
 Built a complete Project Management Plan (PMP) covering scope, cost, timeline, risks, and stakeholder alignment
+
 Used real-world environmental and agricultural data to support decision-making and validate the proposed solution
+
 Designed a solution targeting key sustainability goals such as emissions reduction, water efficiency, or climate resilience
+
 Structured the proposal to meet NAB green financing criteria, simulating an industry consulting engagement
+
 Recognised as a top-performing capstone project
 
 👉 Repo · Slides · PMP · Case Study
