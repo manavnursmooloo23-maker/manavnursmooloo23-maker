@@ -1,8 +1,7 @@
 # Hi, I’m Manav 👋
 
-I’m a Business Analytics student at La Trobe University in Melbourne, with a minor in Data Science.
+I’m a Business Analytics student at La Trobe University in Melbourne, with a minor in Data Science. My focus is on understanding the full data lifecycle, from data collection and processing to analysis, modelling and visualisation to applying it to real-world business problems.
 
-My focus is on understanding the full data lifecycle — from data collection and processing to analysis, modelling, and visualisation — and applying it to real-world business problems.
 ---
 
 ## 🚀 Best place to start
