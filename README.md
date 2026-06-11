@@ -6,7 +6,7 @@ I’m a Business Analytics student at La Trobe University in Melbourne, with a m
 
 ## 🚀 Best place to start
 
-👉 Portfolio: https://github.com/manavnursmooloo23-maker/portfolio
+👉 Best place to start: [Portfolio](https://github.com/YOUR-PORTFOLIO-REPO)
 
 ---
 
