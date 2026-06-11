@@ -17,8 +17,11 @@ I’m a Business Analytics student at La Trobe University in Melbourne, with a m
 Developed a public-facing Power BI dashboard for the Victorian Cancer Registry to enable exploration of cancer prevalence across Victoria, supporting clinicians, researchers, policymakers, and the broader community.
 
 Focus: healthcare analytics, data governance, insight communication
+
 Tech: Power BI, R, Data Modelling
+
 Highlights: implemented prevalence calculations (including limited-duration measures), applied strict privacy rules (suppression and rounding), and designed an accessible, high-performance dashboard for non-technical users
+
 👉 Repo · Case Study
 
 ---
@@ -28,13 +31,16 @@ Highlights: implemented prevalence calculations (including limited-duration meas
 Developed a performance-optimised database solution to analyse public transport accessibility across Melbourne, integrating GTFS operational data with census and geographic datasets.
 
 Focus: data engineering, spatial analytics, scalable query design
+
 Tech: PostgreSQL/PostGIS, SQL, QGIS, GTFS, ABS datasets
+
 Highlights:
 
 Integrated large-scale transport and demographic datasets into a unified schema
 Designed staged query pipelines to optimise performance on high-volume data
 Computed suburb-level accessibility metrics (route coverage, population coverage, service intensity)
 Modelled spatial catchments (400m radius) and produced high-resolution heatmaps in QGIS
+
 
 👉 Repo · Case Study
 
@@ -45,7 +51,9 @@ Modelled spatial catchments (400m radius) and produced high-resolution heatmaps 
 Led the development of a data-driven sustainability solution for a farm-to-table agribusiness, in collaboration with National Australia Bank (NAB), combining business analytics with structured project management to design a financially viable green initiative.
 
 Focus: consulting, sustainability analytics, project management
+
 Tech: Excel, data analysis, PMP frameworks, climate datasets (BoM), research modelling
+
 Highlights:
 
 Built a complete Project Management Plan (PMP) covering scope, cost, timeline, risks, and stakeholder alignment
