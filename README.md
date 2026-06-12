@@ -39,7 +39,7 @@ Highlights:
 Integrated large-scale transport and demographic datasets into a unified schema, designed staged query pipelines to optimise performance on high-volume data, computed suburb-level accessibility metrics (route coverage, population coverage, service intensity) and modelled spatial catchments (400m radius) and produced high-resolution heatmaps in QGIS
 
 
-👉 Repo · Case Study
+👉 [Repo](https://github.com/manavnursmooloo23-maker/ptv-transport-accessibility-analysis) · [Case Study](https://github.com/manavnursmooloo23-maker/portfolio-proj/blob/main/projects/ptv-analysis.md)
 
 ---
 
