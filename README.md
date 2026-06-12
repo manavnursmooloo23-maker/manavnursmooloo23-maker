@@ -34,9 +34,7 @@ Focus: data engineering, spatial analytics, scalable query design
 
 Tech: PostgreSQL/PostGIS, SQL, QGIS, GTFS, ABS datasets
 
-Highlights:
-
-Integrated large-scale transport and demographic datasets into a unified schema, designed staged query pipelines to optimise performance on high-volume data, computed suburb-level accessibility metrics (route coverage, population coverage, service intensity) and modelled spatial catchments (400m radius) and produced high-resolution heatmaps in QGIS
+Highlights: Integrated large-scale transport and demographic datasets into a unified schema, designed staged query pipelines to optimise performance on high-volume data, computed suburb-level accessibility metrics (route coverage, population coverage, service intensity) and modelled spatial catchments (400m radius) and produced high-resolution heatmaps in QGIS
 
 
 👉 [Repo](https://github.com/manavnursmooloo23-maker/ptv-transport-accessibility-analysis) · [Case Study](https://github.com/manavnursmooloo23-maker/portfolio-proj/blob/main/projects/ptv-analysis.md)
@@ -51,9 +49,7 @@ Focus: consulting, sustainability analytics, project management
 
 Tech: Excel, data analysis, PMP frameworks, climate datasets (BoM), research modelling
 
-Highlights:
-
-Built a complete Project Management Plan (PMP) covering scope, cost, timeline, risks, and stakeholder alignment, used real-world environmental and agricultural data to support decision-making and validate the proposed solution, designed a solution targeting key sustainability goals such as emissions reduction, water efficiency, or climate resilience, structured the proposal to meet NAB green financing criteria, simulating an industry consulting engagement, recognised as a top-performing capstone project
+Highlights: Built a complete Project Management Plan (PMP) covering scope, cost, timeline, risks, and stakeholder alignment, used real-world environmental and agricultural data to support decision-making and validate the proposed solution, designed a solution targeting key sustainability goals such as emissions reduction, water efficiency, or climate resilience, structured the proposal to meet NAB green financing criteria, simulating an industry consulting engagement, recognised as a top-performing capstone project
 
 👉 Repo · Slides · PMP · Case Study
 
