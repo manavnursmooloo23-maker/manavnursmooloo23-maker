@@ -22,7 +22,7 @@ Tech: Power BI, R, Data Modelling
 
 Highlights: implemented prevalence calculations (including limited-duration measures), applied strict privacy rules (suppression and rounding), and designed an accessible, high-performance dashboard for non-technical users
 
-👉 Repo · Case Study
+👉 [Repo](https://github.com/manavnursmooloo23-maker/cancer-prevalence-dataExplorer-CCV) · [Case Study](https://github.com/manavnursmooloo23-maker/portfolio-proj/blob/main/projects/cancer-prevalence.md)
 
 ---
 
